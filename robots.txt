@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://alkislovdev.ru
+Sitemap: https://alkislovdev.ru/sitemap.xml
