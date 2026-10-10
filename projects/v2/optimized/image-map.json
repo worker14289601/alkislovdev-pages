@@ -82,5 +82,33 @@
   "/tool-icons/1c.png": {
     "fallback": "/tool-icons/optimized/1c-96.webp",
     "srcSet": "/tool-icons/optimized/1c-96.webp 96w"
+  },
+  "/projects/v2/art/loot-scene.webp": {
+    "fallback": "/projects/v2/art/loot-scene-1536.webp",
+    "srcSet": "/projects/v2/art/loot-scene-480.webp 480w, /projects/v2/art/loot-scene-960.webp 960w, /projects/v2/art/loot-scene-1536.webp 1536w"
+  },
+  "/projects/v2/art/maximum-scene.webp": {
+    "fallback": "/projects/v2/art/maximum-scene-1536.webp",
+    "srcSet": "/projects/v2/art/maximum-scene-480.webp 480w, /projects/v2/art/maximum-scene-960.webp 960w, /projects/v2/art/maximum-scene-1536.webp 1536w"
+  },
+  "/projects/v2/art/vyshe-scene.webp": {
+    "fallback": "/projects/v2/art/vyshe-scene-1536.webp",
+    "srcSet": "/projects/v2/art/vyshe-scene-480.webp 480w, /projects/v2/art/vyshe-scene-960.webp 960w, /projects/v2/art/vyshe-scene-1536.webp 1536w"
+  },
+  "/projects/v2/art/strength-business.webp": {
+    "fallback": "/projects/v2/art/strength-business-1536.webp",
+    "srcSet": "/projects/v2/art/strength-business-480.webp 480w, /projects/v2/art/strength-business-960.webp 960w, /projects/v2/art/strength-business-1536.webp 1536w"
+  },
+  "/projects/v2/art/strength-build.webp": {
+    "fallback": "/projects/v2/art/strength-build-1536.webp",
+    "srcSet": "/projects/v2/art/strength-build-480.webp 480w, /projects/v2/art/strength-build-960.webp 960w, /projects/v2/art/strength-build-1536.webp 1536w"
+  },
+  "/projects/v2/art/strength-quality.webp": {
+    "fallback": "/projects/v2/art/strength-quality-1536.webp",
+    "srcSet": "/projects/v2/art/strength-quality-480.webp 480w, /projects/v2/art/strength-quality-960.webp 960w, /projects/v2/art/strength-quality-1536.webp 1536w"
+  },
+  "/projects/loot-arena-gamers-main.webp": {
+    "fallback": "/projects/v2/art/loot-devices-1600.webp",
+    "srcSet": "/projects/v2/art/loot-devices-480.webp 480w, /projects/v2/art/loot-devices-960.webp 960w, /projects/v2/art/loot-devices-1600.webp 1600w"
   }
 }
