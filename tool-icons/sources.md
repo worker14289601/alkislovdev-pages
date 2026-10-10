@@ -6,6 +6,7 @@ App Store metadata на дату проверки: Xcode 27.0 (обновлен�
 
 | Файл | Инструмент | Источник |
 | --- | --- | --- |
+| `app-store.png` | App Store | [Официальная страница App Store](https://developer.apple.com/app-store/), [оригинальная иконка Apple 192×192](https://developer.apple.com/assets/elements/icons/app-store-s/app-store-s-96x96_2x.png). Для кнопок сохранена копия WebP 96×96. |
 | `figma.svg` | Figma | [Официальный цветной SVG Figma](https://static.figma.com/app/icon/2/favicon.svg), [материалы бренда Figma](https://www.figma.com/using-the-figma-brand/) |
 | `tilda.svg` | Tilda | [Официальный сайт Tilda](https://tilda.cc/), [SVG, используемый на сайте как логотип Tilda](https://static.tildacdn.net/tild3864-3136-4261-a561-303435643838/logo.svg) |
 | `claude-code.png` | Claude Code | [Официальная страница Claude Code](https://claude.com/product/claude-code), [оригинальный PNG favicon Claude](https://assets.claude.com/95a868946ac8a31e5ff832e2899f294aa368b836.png?w=32&h=32). Использован общий фирменный символ Claude, который сама страница Claude Code использует как favicon. |
