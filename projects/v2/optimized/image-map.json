@@ -110,5 +110,25 @@
   "/projects/loot-arena-gamers-main.webp": {
     "fallback": "/projects/v2/art/loot-devices-1600.webp",
     "srcSet": "/projects/v2/art/loot-devices-480.webp 480w, /projects/v2/art/loot-devices-960.webp 960w, /projects/v2/art/loot-devices-1600.webp 1600w"
+  },
+  "/projects/v2/art/workflow-discovery.webp": {
+    "fallback": "/projects/v2/art/workflow-discovery-1536.webp",
+    "srcSet": "/projects/v2/art/workflow-discovery-480.webp 480w, /projects/v2/art/workflow-discovery-960.webp 960w, /projects/v2/art/workflow-discovery-1536.webp 1536w"
+  },
+  "/projects/v2/art/workflow-design.webp": {
+    "fallback": "/projects/v2/art/workflow-design-1536.webp",
+    "srcSet": "/projects/v2/art/workflow-design-480.webp 480w, /projects/v2/art/workflow-design-960.webp 960w, /projects/v2/art/workflow-design-1536.webp 1536w"
+  },
+  "/projects/v2/art/workflow-build.webp": {
+    "fallback": "/projects/v2/art/workflow-build-1536.webp",
+    "srcSet": "/projects/v2/art/workflow-build-480.webp 480w, /projects/v2/art/workflow-build-960.webp 960w, /projects/v2/art/workflow-build-1536.webp 1536w"
+  },
+  "/projects/v2/art/workflow-launch.webp": {
+    "fallback": "/projects/v2/art/workflow-launch-1536.webp",
+    "srcSet": "/projects/v2/art/workflow-launch-480.webp 480w, /projects/v2/art/workflow-launch-960.webp 960w, /projects/v2/art/workflow-launch-1536.webp 1536w"
+  },
+  "/projects/v2/art/workflow-support.webp": {
+    "fallback": "/projects/v2/art/workflow-support-1536.webp",
+    "srcSet": "/projects/v2/art/workflow-support-480.webp 480w, /projects/v2/art/workflow-support-960.webp 960w, /projects/v2/art/workflow-support-1536.webp 1536w"
   }
 }
