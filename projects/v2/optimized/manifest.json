@@ -1,0 +1,730 @@
+{
+  "version": 1,
+  "sharpVersion": "0.34.5",
+  "sources": {
+    "/projects/v2/portrait-white-soft-blue.png": {
+      "original": {
+        "width": 941,
+        "height": 1672,
+        "bytes": 2152537,
+        "sha256": "d7d83af7212ec470af10114ca8533be2a9043afc6d00fa331a80c7530147f270"
+      },
+      "input": {
+        "src": "/projects/v2/portrait-white-soft-blue.png",
+        "width": 941,
+        "height": 1672,
+        "sha256": "d7d83af7212ec470af10114ca8533be2a9043afc6d00fa331a80c7530147f270"
+      },
+      "quality": 94,
+      "variants": [
+        {
+          "src": "/projects/v2/optimized/portrait-white-soft-blue-480.webp",
+          "width": 480,
+          "height": 853,
+          "bytes": 65234
+        },
+        {
+          "src": "/projects/v2/optimized/portrait-white-soft-blue-941.webp",
+          "width": 941,
+          "height": 1672,
+          "bytes": 239996
+        }
+      ],
+      "fallback": "/projects/v2/optimized/portrait-white-soft-blue-941.webp",
+      "srcSet": "/projects/v2/optimized/portrait-white-soft-blue-480.webp 480w, /projects/v2/optimized/portrait-white-soft-blue-941.webp 941w"
+    },
+    "/projects/v2/portrait-white-extended-blue.png": {
+      "original": {
+        "width": 701,
+        "height": 2243,
+        "bytes": 2061643,
+        "sha256": "ce09cca8c13cce454257afe64b908cbe73a86f99a15bc07b524cd30ed08778b5"
+      },
+      "input": {
+        "src": "/projects/v2/portrait-white-extended-blue.png",
+        "width": 701,
+        "height": 2243,
+        "sha256": "ce09cca8c13cce454257afe64b908cbe73a86f99a15bc07b524cd30ed08778b5"
+      },
+      "quality": 94,
+      "variants": [
+        {
+          "src": "/projects/v2/optimized/portrait-white-extended-blue-480.webp",
+          "width": 480,
+          "height": 1536,
+          "bytes": 105648
+        },
+        {
+          "src": "/projects/v2/optimized/portrait-white-extended-blue-562.webp",
+          "width": 562,
+          "height": 1798,
+          "bytes": 141126
+        },
+        {
+          "src": "/projects/v2/optimized/portrait-white-extended-blue-701.webp",
+          "width": 701,
+          "height": 2243,
+          "bytes": 213538
+        }
+      ],
+      "fallback": "/projects/v2/optimized/portrait-white-extended-blue-701.webp",
+      "srcSet": "/projects/v2/optimized/portrait-white-extended-blue-480.webp 480w, /projects/v2/optimized/portrait-white-extended-blue-562.webp 562w, /projects/v2/optimized/portrait-white-extended-blue-701.webp 701w"
+    },
+    "/projects/case-loot-arena-v3.webp": {
+      "original": {
+        "width": 2400,
+        "height": 1333,
+        "bytes": 172050,
+        "sha256": "4fb1b980937b9d682131fe112617a64a0c1973bb9d8e7cefc6e6c512db51f35a"
+      },
+      "input": {
+        "src": "/projects/case-loot-arena-v3.webp",
+        "width": 2400,
+        "height": 1333,
+        "sha256": "4fb1b980937b9d682131fe112617a64a0c1973bb9d8e7cefc6e6c512db51f35a"
+      },
+      "quality": 90,
+      "variants": [
+        {
+          "src": "/projects/v2/optimized/loot-arena-cover-480.webp",
+          "width": 480,
+          "height": 267,
+          "bytes": 14658
+        },
+        {
+          "src": "/projects/v2/optimized/loot-arena-cover-960.webp",
+          "width": 960,
+          "height": 533,
+          "bytes": 37054
+        },
+        {
+          "src": "/projects/v2/optimized/loot-arena-cover-1440.webp",
+          "width": 1440,
+          "height": 800,
+          "bytes": 64640
+        },
+        {
+          "src": "/projects/v2/optimized/loot-arena-cover-1920.webp",
+          "width": 1920,
+          "height": 1066,
+          "bytes": 93488
+        }
+      ],
+      "fallback": "/projects/v2/optimized/loot-arena-cover-1920.webp",
+      "srcSet": "/projects/v2/optimized/loot-arena-cover-480.webp 480w, /projects/v2/optimized/loot-arena-cover-960.webp 960w, /projects/v2/optimized/loot-arena-cover-1440.webp 1440w, /projects/v2/optimized/loot-arena-cover-1920.webp 1920w"
+    },
+    "/projects/loot-arena-gamers-main-wide.webp": {
+      "original": {
+        "width": 1920,
+        "height": 1143,
+        "bytes": 219972,
+        "sha256": "59f481583f8c77e920f850bc23e91dd23d61f2265e08167a801bf52cbade1da7"
+      },
+      "input": {
+        "src": "/projects/loot-arena-gamers-main-wide.png",
+        "width": 6384,
+        "height": 3800,
+        "sha256": "4693a9b9d02ef494283439e5704b5d08cb5c5d25dbd41f77c9408ab522990b13"
+      },
+      "quality": 86,
+      "variants": [
+        {
+          "src": "/projects/v2/optimized/loot-arena-gamers-main-wide-480.webp",
+          "width": 480,
+          "height": 286,
+          "bytes": 24966
+        },
+        {
+          "src": "/projects/v2/optimized/loot-arena-gamers-main-wide-960.webp",
+          "width": 960,
+          "height": 571,
+          "bytes": 48462
+        },
+        {
+          "src": "/projects/v2/optimized/loot-arena-gamers-main-wide-1440.webp",
+          "width": 1440,
+          "height": 857,
+          "bytes": 119200
+        },
+        {
+          "src": "/projects/v2/optimized/loot-arena-gamers-main-wide-1920.webp",
+          "width": 1920,
+          "height": 1143,
+          "bytes": 206648
+        }
+      ],
+      "fallback": "/projects/v2/optimized/loot-arena-gamers-main-wide-1920.webp",
+      "srcSet": "/projects/v2/optimized/loot-arena-gamers-main-wide-480.webp 480w, /projects/v2/optimized/loot-arena-gamers-main-wide-960.webp 960w, /projects/v2/optimized/loot-arena-gamers-main-wide-1440.webp 1440w, /projects/v2/optimized/loot-arena-gamers-main-wide-1920.webp 1920w"
+    },
+    "/projects/kiwi/living-room.webp": {
+      "original": {
+        "width": 1860,
+        "height": 846,
+        "bytes": 400120,
+        "sha256": "12f48a4dc977db49848bfab7abaa04a6452fe49a22bbad686be57c442be167b8"
+      },
+      "input": {
+        "src": "/projects/kiwi/living-room.png",
+        "width": 1860,
+        "height": 846,
+        "sha256": "3f488a9c80bcdd4304a54f41604eb855eaff1081777b9c9dd3e685657837a49a"
+      },
+      "quality": 86,
+      "variants": [
+        {
+          "src": "/projects/v2/optimized/kiwi-living-room-480.webp",
+          "width": 480,
+          "height": 218,
+          "bytes": 29362
+        },
+        {
+          "src": "/projects/v2/optimized/kiwi-living-room-960.webp",
+          "width": 960,
+          "height": 437,
+          "bytes": 112038
+        },
+        {
+          "src": "/projects/v2/optimized/kiwi-living-room-1440.webp",
+          "width": 1440,
+          "height": 655,
+          "bytes": 240478
+        },
+        {
+          "src": "/projects/v2/optimized/kiwi-living-room-1860.webp",
+          "width": 1860,
+          "height": 846,
+          "bytes": 372578
+        }
+      ],
+      "fallback": "/projects/v2/optimized/kiwi-living-room-1860.webp",
+      "srcSet": "/projects/v2/optimized/kiwi-living-room-480.webp 480w, /projects/v2/optimized/kiwi-living-room-960.webp 960w, /projects/v2/optimized/kiwi-living-room-1440.webp 1440w, /projects/v2/optimized/kiwi-living-room-1860.webp 1860w"
+    },
+    "/projects/kiwi/design-concept.webp": {
+      "original": {
+        "width": 1024,
+        "height": 1536,
+        "bytes": 193958,
+        "sha256": "6a2a1c54e2f90143b21b9546c063094770561d0748b62b0bd633fa92a58c76a0"
+      },
+      "input": {
+        "src": "/projects/kiwi/design-concept.png",
+        "width": 1024,
+        "height": 1536,
+        "sha256": "8150998d9ae7e89030cc31abe59e67cc05a52545e0b48153628af850f1ea7f35"
+      },
+      "quality": 86,
+      "variants": [
+        {
+          "src": "/projects/v2/optimized/kiwi-design-concept-480.webp",
+          "width": 480,
+          "height": 720,
+          "bytes": 51844
+        },
+        {
+          "src": "/projects/v2/optimized/kiwi-design-concept-960.webp",
+          "width": 960,
+          "height": 1440,
+          "bytes": 161350
+        },
+        {
+          "src": "/projects/v2/optimized/kiwi-design-concept-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 182260
+        }
+      ],
+      "fallback": "/projects/v2/optimized/kiwi-design-concept-1024.webp",
+      "srcSet": "/projects/v2/optimized/kiwi-design-concept-480.webp 480w, /projects/v2/optimized/kiwi-design-concept-960.webp 960w, /projects/v2/optimized/kiwi-design-concept-1024.webp 1024w"
+    },
+    "/projects/kiwi/garden-bedroom.webp": {
+      "original": {
+        "width": 1536,
+        "height": 1024,
+        "bytes": 351970,
+        "sha256": "25f90214a8b99762e1f1e82eada25c5bcd35586b49300ef29832eaabaefa0dbf"
+      },
+      "input": {
+        "src": "/projects/kiwi/garden-bedroom.png",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "c82c6a9011af8ec1351d48622895cdac65a5206d9806ff93d9334b63d5b177b1"
+      },
+      "quality": 86,
+      "variants": [
+        {
+          "src": "/projects/v2/optimized/kiwi-garden-bedroom-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 39554
+        },
+        {
+          "src": "/projects/v2/optimized/kiwi-garden-bedroom-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 141132
+        },
+        {
+          "src": "/projects/v2/optimized/kiwi-garden-bedroom-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 282184
+        },
+        {
+          "src": "/projects/v2/optimized/kiwi-garden-bedroom-1536.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 325682
+        }
+      ],
+      "fallback": "/projects/v2/optimized/kiwi-garden-bedroom-1536.webp",
+      "srcSet": "/projects/v2/optimized/kiwi-garden-bedroom-480.webp 480w, /projects/v2/optimized/kiwi-garden-bedroom-960.webp 960w, /projects/v2/optimized/kiwi-garden-bedroom-1440.webp 1440w, /projects/v2/optimized/kiwi-garden-bedroom-1536.webp 1536w"
+    },
+    "/projects/kiwi/city-dining.webp": {
+      "original": {
+        "width": 1536,
+        "height": 1024,
+        "bytes": 169312,
+        "sha256": "6f93bb177cfa4bca7bc29d6a14611bbabb84bdecc35bbe90717b8c559194a9a6"
+      },
+      "input": {
+        "src": "/projects/kiwi/city-dining.png",
+        "width": 1536,
+        "height": 1024,
+        "sha256": "2bbf43811f9803b940fe2b594e8b59d77e6a6b845a14b293d84d4b9d6720d0cd"
+      },
+      "quality": 86,
+      "variants": [
+        {
+          "src": "/projects/v2/optimized/kiwi-city-dining-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 24288
+        },
+        {
+          "src": "/projects/v2/optimized/kiwi-city-dining-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 73834
+        },
+        {
+          "src": "/projects/v2/optimized/kiwi-city-dining-1440.webp",
+          "width": 1440,
+          "height": 960,
+          "bytes": 138770
+        },
+        {
+          "src": "/projects/v2/optimized/kiwi-city-dining-1536.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 157148
+        }
+      ],
+      "fallback": "/projects/v2/optimized/kiwi-city-dining-1536.webp",
+      "srcSet": "/projects/v2/optimized/kiwi-city-dining-480.webp 480w, /projects/v2/optimized/kiwi-city-dining-960.webp 960w, /projects/v2/optimized/kiwi-city-dining-1440.webp 1440w, /projects/v2/optimized/kiwi-city-dining-1536.webp 1536w"
+    },
+    "/projects/beri/camera.webp": {
+      "original": {
+        "width": 1122,
+        "height": 1402,
+        "bytes": 92046,
+        "sha256": "6096ee0c6b0298d32ebb5e4d58e9f9ee25c96e697ed5f07251d232b07acfce8e"
+      },
+      "input": {
+        "src": "/projects/beri/camera.png",
+        "width": 1122,
+        "height": 1402,
+        "sha256": "980ef9f61e2ea41a4755cc513e0b17f03874a22287eb4927d8cc9836fcb4acde"
+      },
+      "quality": 86,
+      "variants": [
+        {
+          "src": "/projects/v2/optimized/beri-camera-480.webp",
+          "width": 480,
+          "height": 600,
+          "bytes": 19948
+        },
+        {
+          "src": "/projects/v2/optimized/beri-camera-960.webp",
+          "width": 960,
+          "height": 1200,
+          "bytes": 66318
+        },
+        {
+          "src": "/projects/v2/optimized/beri-camera-1122.webp",
+          "width": 1122,
+          "height": 1402,
+          "bytes": 83722
+        }
+      ],
+      "fallback": "/projects/v2/optimized/beri-camera-1122.webp",
+      "srcSet": "/projects/v2/optimized/beri-camera-480.webp 480w, /projects/v2/optimized/beri-camera-960.webp 960w, /projects/v2/optimized/beri-camera-1122.webp 1122w"
+    },
+    "/projects/beri/design-concept.webp": {
+      "original": {
+        "width": 1039,
+        "height": 1514,
+        "bytes": 133264,
+        "sha256": "2a81b252235f41adfa3fb347ec5363faf098f35d185f8235939ff7002a1dd480"
+      },
+      "input": {
+        "src": "/projects/beri/design-concept.png",
+        "width": 1039,
+        "height": 1514,
+        "sha256": "b00480bf88246f32f58ee49b56475c53e6fe65e0e990e3edf774964c67caf44d"
+      },
+      "quality": 86,
+      "variants": [
+        {
+          "src": "/projects/v2/optimized/beri-design-concept-480.webp",
+          "width": 480,
+          "height": 699,
+          "bytes": 41866
+        },
+        {
+          "src": "/projects/v2/optimized/beri-design-concept-960.webp",
+          "width": 960,
+          "height": 1399,
+          "bytes": 110296
+        },
+        {
+          "src": "/projects/v2/optimized/beri-design-concept-1039.webp",
+          "width": 1039,
+          "height": 1514,
+          "bytes": 123642
+        }
+      ],
+      "fallback": "/projects/v2/optimized/beri-design-concept-1039.webp",
+      "srcSet": "/projects/v2/optimized/beri-design-concept-480.webp 480w, /projects/v2/optimized/beri-design-concept-960.webp 960w, /projects/v2/optimized/beri-design-concept-1039.webp 1039w"
+    },
+    "/projects/beri/light.webp": {
+      "original": {
+        "width": 1254,
+        "height": 1254,
+        "bytes": 119720,
+        "sha256": "0dfd19ea9c1800c4cee9ebb88925e3b8be6202006281c2011a8cb68b93a6b439"
+      },
+      "input": {
+        "src": "/projects/beri/light.png",
+        "width": 1254,
+        "height": 1254,
+        "sha256": "85cb2e9e45ed6325455bcdb0956b47bda85eaf83c569819a804b84a100b92e4e"
+      },
+      "quality": 86,
+      "variants": [
+        {
+          "src": "/projects/v2/optimized/beri-light-480.webp",
+          "width": 480,
+          "height": 480,
+          "bytes": 23290
+        },
+        {
+          "src": "/projects/v2/optimized/beri-light-960.webp",
+          "width": 960,
+          "height": 960,
+          "bytes": 71476
+        },
+        {
+          "src": "/projects/v2/optimized/beri-light-1254.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 108352
+        }
+      ],
+      "fallback": "/projects/v2/optimized/beri-light-1254.webp",
+      "srcSet": "/projects/v2/optimized/beri-light-480.webp 480w, /projects/v2/optimized/beri-light-960.webp 960w, /projects/v2/optimized/beri-light-1254.webp 1254w"
+    },
+    "/projects/beri/sound.webp": {
+      "original": {
+        "width": 1254,
+        "height": 1254,
+        "bytes": 89968,
+        "sha256": "53d75ebf0cc0d1c5ae627fd7b08b0b48dc0a24576af4f2093511938526be6577"
+      },
+      "input": {
+        "src": "/projects/beri/sound.png",
+        "width": 1254,
+        "height": 1254,
+        "sha256": "f0bf4073bf796ce84edef6380a4ebaf6c64b3de27c7eee2c02a398b438c34446"
+      },
+      "quality": 86,
+      "variants": [
+        {
+          "src": "/projects/v2/optimized/beri-sound-480.webp",
+          "width": 480,
+          "height": 480,
+          "bytes": 12124
+        },
+        {
+          "src": "/projects/v2/optimized/beri-sound-960.webp",
+          "width": 960,
+          "height": 960,
+          "bytes": 43916
+        },
+        {
+          "src": "/projects/v2/optimized/beri-sound-1254.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 78006
+        }
+      ],
+      "fallback": "/projects/v2/optimized/beri-sound-1254.webp",
+      "srcSet": "/projects/v2/optimized/beri-sound-480.webp 480w, /projects/v2/optimized/beri-sound-960.webp 960w, /projects/v2/optimized/beri-sound-1254.webp 1254w"
+    },
+    "/projects/v2/maximum-auto.jpg": {
+      "original": {
+        "width": 390,
+        "height": 802,
+        "bytes": 28739,
+        "sha256": "e307154b76d3ce08ca6027a597f2f08d7166c83a9f37b5b3424502ab7b760140"
+      },
+      "input": {
+        "src": "/projects/v2/maximum-auto.jpg",
+        "width": 390,
+        "height": 802,
+        "sha256": "e307154b76d3ce08ca6027a597f2f08d7166c83a9f37b5b3424502ab7b760140"
+      },
+      "quality": 92,
+      "variants": [
+        {
+          "src": "/projects/v2/optimized/maximum-auto-390.webp",
+          "width": 390,
+          "height": 802,
+          "bytes": 25062
+        }
+      ],
+      "fallback": "/projects/v2/optimized/maximum-auto-390.webp",
+      "srcSet": "/projects/v2/optimized/maximum-auto-390.webp 390w"
+    },
+    "/projects/v2/maximum-auto-detail.jpg": {
+      "original": {
+        "width": 390,
+        "height": 802,
+        "bytes": 27569,
+        "sha256": "4ace0e47d91852ae996efdfcb87ff95959b9d4c20e07c01234ca89778e593428"
+      },
+      "input": {
+        "src": "/projects/v2/maximum-auto-detail.jpg",
+        "width": 390,
+        "height": 802,
+        "sha256": "4ace0e47d91852ae996efdfcb87ff95959b9d4c20e07c01234ca89778e593428"
+      },
+      "quality": 92,
+      "variants": [
+        {
+          "src": "/projects/v2/optimized/maximum-auto-detail-390.webp",
+          "width": 390,
+          "height": 802,
+          "bytes": 24132
+        }
+      ],
+      "fallback": "/projects/v2/optimized/maximum-auto-detail-390.webp",
+      "srcSet": "/projects/v2/optimized/maximum-auto-detail-390.webp 390w"
+    },
+    "/projects/v2/maximum-auto-stages.jpg": {
+      "original": {
+        "width": 390,
+        "height": 802,
+        "bytes": 27062,
+        "sha256": "2a9a498dd8479ee0f636caf284e0a716332084df07fe8fe360ef70d507340293"
+      },
+      "input": {
+        "src": "/projects/v2/maximum-auto-stages.jpg",
+        "width": 390,
+        "height": 802,
+        "sha256": "2a9a498dd8479ee0f636caf284e0a716332084df07fe8fe360ef70d507340293"
+      },
+      "quality": 92,
+      "variants": [
+        {
+          "src": "/projects/v2/optimized/maximum-auto-stages-390.webp",
+          "width": 390,
+          "height": 802,
+          "bytes": 20788
+        }
+      ],
+      "fallback": "/projects/v2/optimized/maximum-auto-stages-390.webp",
+      "srcSet": "/projects/v2/optimized/maximum-auto-stages-390.webp 390w"
+    },
+    "/projects/v2/vyshe-vseh.jpg": {
+      "original": {
+        "width": 390,
+        "height": 802,
+        "bytes": 42876,
+        "sha256": "060171f4095a107f4b387206d071801e5947abc2980d91eadb0dd9ea6782b956"
+      },
+      "input": {
+        "src": "/projects/v2/vyshe-vseh.jpg",
+        "width": 390,
+        "height": 802,
+        "sha256": "060171f4095a107f4b387206d071801e5947abc2980d91eadb0dd9ea6782b956"
+      },
+      "quality": 90,
+      "variants": [
+        {
+          "src": "/projects/v2/optimized/vyshe-vseh-390.webp",
+          "width": 390,
+          "height": 802,
+          "bytes": 41118
+        }
+      ],
+      "fallback": "/projects/v2/optimized/vyshe-vseh-390.webp",
+      "srcSet": "/projects/v2/optimized/vyshe-vseh-390.webp 390w"
+    },
+    "/projects/v2/vyshe-vseh-booking.jpg": {
+      "original": {
+        "width": 390,
+        "height": 802,
+        "bytes": 39828,
+        "sha256": "6251ee682cdfa5a54bbb178845ad49dbd2a79d397c8f144c0ceb541fb0354ddc"
+      },
+      "input": {
+        "src": "/projects/v2/vyshe-vseh-booking.jpg",
+        "width": 390,
+        "height": 802,
+        "sha256": "6251ee682cdfa5a54bbb178845ad49dbd2a79d397c8f144c0ceb541fb0354ddc"
+      },
+      "quality": 92,
+      "variants": [
+        {
+          "src": "/projects/v2/optimized/vyshe-vseh-booking-390.webp",
+          "width": 390,
+          "height": 802,
+          "bytes": 37184
+        }
+      ],
+      "fallback": "/projects/v2/optimized/vyshe-vseh-booking-390.webp",
+      "srcSet": "/projects/v2/optimized/vyshe-vseh-booking-390.webp 390w"
+    },
+    "/tool-icons/xcode.png": {
+      "original": {
+        "width": 512,
+        "height": 512,
+        "bytes": 120836,
+        "sha256": "e7bbf8bb836ad6de1c5ebf582a82eaa70beebbaba15ab52416507cc0c77e1643"
+      },
+      "input": {
+        "src": "/tool-icons/xcode.png",
+        "width": 512,
+        "height": 512,
+        "sha256": "e7bbf8bb836ad6de1c5ebf582a82eaa70beebbaba15ab52416507cc0c77e1643"
+      },
+      "quality": "lossless",
+      "variants": [
+        {
+          "src": "/tool-icons/optimized/xcode-128.webp",
+          "width": 128,
+          "height": 128,
+          "bytes": 9570
+        }
+      ],
+      "fallback": "/tool-icons/optimized/xcode-128.webp",
+      "srcSet": "/tool-icons/optimized/xcode-128.webp 128w"
+    },
+    "/tool-icons/vscode.png": {
+      "original": {
+        "width": 1024,
+        "height": 1024,
+        "bytes": 114937,
+        "sha256": "7ac29e00cd66e549acc2ea6a99a813f92cb23a6d165293be6959845670f0c5a4"
+      },
+      "input": {
+        "src": "/tool-icons/vscode.png",
+        "width": 1024,
+        "height": 1024,
+        "sha256": "7ac29e00cd66e549acc2ea6a99a813f92cb23a6d165293be6959845670f0c5a4"
+      },
+      "quality": "lossless",
+      "variants": [
+        {
+          "src": "/tool-icons/optimized/vscode-128.webp",
+          "width": 128,
+          "height": 128,
+          "bytes": 6336
+        }
+      ],
+      "fallback": "/tool-icons/optimized/vscode-128.webp",
+      "srcSet": "/tool-icons/optimized/vscode-128.webp 128w"
+    },
+    "/tool-icons/testflight.jpg": {
+      "original": {
+        "width": 512,
+        "height": 512,
+        "bytes": 36650,
+        "sha256": "52162db49e92cb5dab1a3d6dec7f6107fe933ef302cbda065db237695fad9da4"
+      },
+      "input": {
+        "src": "/tool-icons/testflight.jpg",
+        "width": 512,
+        "height": 512,
+        "sha256": "52162db49e92cb5dab1a3d6dec7f6107fe933ef302cbda065db237695fad9da4"
+      },
+      "quality": "lossless",
+      "variants": [
+        {
+          "src": "/tool-icons/optimized/testflight-128.webp",
+          "width": 128,
+          "height": 128,
+          "bytes": 13554
+        }
+      ],
+      "fallback": "/tool-icons/optimized/testflight-128.webp",
+      "srcSet": "/tool-icons/optimized/testflight-128.webp 128w"
+    },
+    "/tool-icons/1c.png": {
+      "original": {
+        "width": 96,
+        "height": 96,
+        "bytes": 4107,
+        "sha256": "3dd05caccbf34a321439693a6aa94c343a67d08cc825a1922975779929f726dc"
+      },
+      "input": {
+        "src": "/tool-icons/1c.png",
+        "width": 96,
+        "height": 96,
+        "sha256": "3dd05caccbf34a321439693a6aa94c343a67d08cc825a1922975779929f726dc"
+      },
+      "quality": "lossless",
+      "variants": [
+        {
+          "src": "/tool-icons/optimized/1c-96.webp",
+          "width": 96,
+          "height": 96,
+          "bytes": 1954
+        }
+      ],
+      "fallback": "/tool-icons/optimized/1c-96.webp",
+      "srcSet": "/tool-icons/optimized/1c-96.webp 96w"
+    }
+  },
+  "derived": {
+    "avatar": {
+      "input": "/projects/v2/portrait-white-soft-blue.png",
+      "crop": {
+        "left": 290,
+        "top": 473,
+        "width": 362,
+        "height": 362
+      },
+      "variants": [
+        {
+          "src": "/projects/v2/optimized/portrait-avatar-160.webp",
+          "width": 160,
+          "height": 160,
+          "bytes": 5162
+        },
+        {
+          "src": "/projects/v2/optimized/portrait-avatar-320.webp",
+          "width": 320,
+          "height": 320,
+          "bytes": 16070
+        }
+      ]
+    }
+  },
+  "totals": {
+    "originalBytes": 6599164,
+    "fallbackBytes": 2364758,
+    "generatedBytes": 4691046,
+    "fallbackReductionPercent": 64.2
+  }
+}

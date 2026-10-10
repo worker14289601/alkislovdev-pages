@@ -1,0 +1,86 @@
+{
+  "/projects/v2/portrait-white-soft-blue.png": {
+    "fallback": "/projects/v2/optimized/portrait-white-soft-blue-941.webp",
+    "srcSet": "/projects/v2/optimized/portrait-white-soft-blue-480.webp 480w, /projects/v2/optimized/portrait-white-soft-blue-941.webp 941w"
+  },
+  "/projects/v2/portrait-white-extended-blue.png": {
+    "fallback": "/projects/v2/optimized/portrait-white-extended-blue-701.webp",
+    "srcSet": "/projects/v2/optimized/portrait-white-extended-blue-480.webp 480w, /projects/v2/optimized/portrait-white-extended-blue-562.webp 562w, /projects/v2/optimized/portrait-white-extended-blue-701.webp 701w"
+  },
+  "/projects/case-loot-arena-v3.webp": {
+    "fallback": "/projects/v2/optimized/loot-arena-cover-1920.webp",
+    "srcSet": "/projects/v2/optimized/loot-arena-cover-480.webp 480w, /projects/v2/optimized/loot-arena-cover-960.webp 960w, /projects/v2/optimized/loot-arena-cover-1440.webp 1440w, /projects/v2/optimized/loot-arena-cover-1920.webp 1920w"
+  },
+  "/projects/loot-arena-gamers-main-wide.webp": {
+    "fallback": "/projects/v2/optimized/loot-arena-gamers-main-wide-1920.webp",
+    "srcSet": "/projects/v2/optimized/loot-arena-gamers-main-wide-480.webp 480w, /projects/v2/optimized/loot-arena-gamers-main-wide-960.webp 960w, /projects/v2/optimized/loot-arena-gamers-main-wide-1440.webp 1440w, /projects/v2/optimized/loot-arena-gamers-main-wide-1920.webp 1920w"
+  },
+  "/projects/kiwi/living-room.webp": {
+    "fallback": "/projects/v2/optimized/kiwi-living-room-1860.webp",
+    "srcSet": "/projects/v2/optimized/kiwi-living-room-480.webp 480w, /projects/v2/optimized/kiwi-living-room-960.webp 960w, /projects/v2/optimized/kiwi-living-room-1440.webp 1440w, /projects/v2/optimized/kiwi-living-room-1860.webp 1860w"
+  },
+  "/projects/kiwi/design-concept.webp": {
+    "fallback": "/projects/v2/optimized/kiwi-design-concept-1024.webp",
+    "srcSet": "/projects/v2/optimized/kiwi-design-concept-480.webp 480w, /projects/v2/optimized/kiwi-design-concept-960.webp 960w, /projects/v2/optimized/kiwi-design-concept-1024.webp 1024w"
+  },
+  "/projects/kiwi/garden-bedroom.webp": {
+    "fallback": "/projects/v2/optimized/kiwi-garden-bedroom-1536.webp",
+    "srcSet": "/projects/v2/optimized/kiwi-garden-bedroom-480.webp 480w, /projects/v2/optimized/kiwi-garden-bedroom-960.webp 960w, /projects/v2/optimized/kiwi-garden-bedroom-1440.webp 1440w, /projects/v2/optimized/kiwi-garden-bedroom-1536.webp 1536w"
+  },
+  "/projects/kiwi/city-dining.webp": {
+    "fallback": "/projects/v2/optimized/kiwi-city-dining-1536.webp",
+    "srcSet": "/projects/v2/optimized/kiwi-city-dining-480.webp 480w, /projects/v2/optimized/kiwi-city-dining-960.webp 960w, /projects/v2/optimized/kiwi-city-dining-1440.webp 1440w, /projects/v2/optimized/kiwi-city-dining-1536.webp 1536w"
+  },
+  "/projects/beri/camera.webp": {
+    "fallback": "/projects/v2/optimized/beri-camera-1122.webp",
+    "srcSet": "/projects/v2/optimized/beri-camera-480.webp 480w, /projects/v2/optimized/beri-camera-960.webp 960w, /projects/v2/optimized/beri-camera-1122.webp 1122w"
+  },
+  "/projects/beri/design-concept.webp": {
+    "fallback": "/projects/v2/optimized/beri-design-concept-1039.webp",
+    "srcSet": "/projects/v2/optimized/beri-design-concept-480.webp 480w, /projects/v2/optimized/beri-design-concept-960.webp 960w, /projects/v2/optimized/beri-design-concept-1039.webp 1039w"
+  },
+  "/projects/beri/light.webp": {
+    "fallback": "/projects/v2/optimized/beri-light-1254.webp",
+    "srcSet": "/projects/v2/optimized/beri-light-480.webp 480w, /projects/v2/optimized/beri-light-960.webp 960w, /projects/v2/optimized/beri-light-1254.webp 1254w"
+  },
+  "/projects/beri/sound.webp": {
+    "fallback": "/projects/v2/optimized/beri-sound-1254.webp",
+    "srcSet": "/projects/v2/optimized/beri-sound-480.webp 480w, /projects/v2/optimized/beri-sound-960.webp 960w, /projects/v2/optimized/beri-sound-1254.webp 1254w"
+  },
+  "/projects/v2/maximum-auto.jpg": {
+    "fallback": "/projects/v2/optimized/maximum-auto-390.webp",
+    "srcSet": "/projects/v2/optimized/maximum-auto-390.webp 390w"
+  },
+  "/projects/v2/maximum-auto-detail.jpg": {
+    "fallback": "/projects/v2/optimized/maximum-auto-detail-390.webp",
+    "srcSet": "/projects/v2/optimized/maximum-auto-detail-390.webp 390w"
+  },
+  "/projects/v2/maximum-auto-stages.jpg": {
+    "fallback": "/projects/v2/optimized/maximum-auto-stages-390.webp",
+    "srcSet": "/projects/v2/optimized/maximum-auto-stages-390.webp 390w"
+  },
+  "/projects/v2/vyshe-vseh.jpg": {
+    "fallback": "/projects/v2/optimized/vyshe-vseh-390.webp",
+    "srcSet": "/projects/v2/optimized/vyshe-vseh-390.webp 390w"
+  },
+  "/projects/v2/vyshe-vseh-booking.jpg": {
+    "fallback": "/projects/v2/optimized/vyshe-vseh-booking-390.webp",
+    "srcSet": "/projects/v2/optimized/vyshe-vseh-booking-390.webp 390w"
+  },
+  "/tool-icons/xcode.png": {
+    "fallback": "/tool-icons/optimized/xcode-128.webp",
+    "srcSet": "/tool-icons/optimized/xcode-128.webp 128w"
+  },
+  "/tool-icons/vscode.png": {
+    "fallback": "/tool-icons/optimized/vscode-128.webp",
+    "srcSet": "/tool-icons/optimized/vscode-128.webp 128w"
+  },
+  "/tool-icons/testflight.jpg": {
+    "fallback": "/tool-icons/optimized/testflight-128.webp",
+    "srcSet": "/tool-icons/optimized/testflight-128.webp 128w"
+  },
+  "/tool-icons/1c.png": {
+    "fallback": "/tool-icons/optimized/1c-96.webp",
+    "srcSet": "/tool-icons/optimized/1c-96.webp 96w"
+  }
+}
