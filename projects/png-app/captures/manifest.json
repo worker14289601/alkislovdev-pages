@@ -1,0 +1,83 @@
+{
+  "captured": "2026-10-16",
+  "device": "iPhone 17 Pro",
+  "screens": {
+    "achievements": {
+      "width": 1206,
+      "height": 2622,
+      "encoding": "lossless WebP",
+      "sourceSha256": "fe509c53ba876a4d277eb67307607fae8674853bd0ee288d3b4edda38e10f1dc",
+      "pixelsPreserved": true
+    },
+    "cart": {
+      "width": 1206,
+      "height": 2622,
+      "encoding": "lossless WebP",
+      "sourceSha256": "aa5252e6c3b1627e1c8528000f917ac8df15ae6ea6588cacc6da647dd4295403",
+      "pixelsPreserved": true
+    },
+    "catalog": {
+      "width": 1206,
+      "height": 2622,
+      "encoding": "lossless WebP",
+      "sourceSha256": "07dd47172d0daa69737c2c90712ccf1b1811d8c340f6c48c9a97d1452f892d6a",
+      "pixelsPreserved": true
+    },
+    "certificate": {
+      "width": 1206,
+      "height": 2622,
+      "encoding": "lossless WebP",
+      "sourceSha256": "dfbbd7c8411d937252a843cee1c4c42994123431a92579b51439b9f2044e72ec",
+      "pixelsPreserved": true
+    },
+    "designs": {
+      "width": 1206,
+      "height": 2622,
+      "encoding": "lossless WebP",
+      "sourceSha256": "34cecd5f32f815a17138a1385e0216aa562054b8266c5221e2329651bc2285f1",
+      "pixelsPreserved": true
+    },
+    "editor": {
+      "width": 1206,
+      "height": 2622,
+      "encoding": "lossless WebP",
+      "sourceSha256": "ce2902e32592b2c313940264a532e121d7aa1e8ed56e6b1c8cab641f250866d1",
+      "pixelsPreserved": true
+    },
+    "home": {
+      "width": 1206,
+      "height": 2622,
+      "encoding": "lossless WebP",
+      "sourceSha256": "4db9fe396ad7692f9a037f57c2994999b13c20fefaa1b576fadfc5ccb581cc10",
+      "pixelsPreserved": true
+    },
+    "product": {
+      "width": 1206,
+      "height": 2622,
+      "encoding": "lossless WebP",
+      "sourceSha256": "fafc1713665871566734b63aa1515fca49c5c25ba2a03cf4636d8858e0e75802",
+      "pixelsPreserved": true
+    },
+    "profile": {
+      "width": 1206,
+      "height": 2622,
+      "encoding": "lossless WebP",
+      "sourceSha256": "c8ee911e49e9cbac2aa5783f6d22a646b06a0870bbe89eafe2d8784a13c1019f",
+      "pixelsPreserved": true
+    },
+    "review": {
+      "width": 1206,
+      "height": 2622,
+      "encoding": "lossless WebP",
+      "sourceSha256": "70af18e57cc803991ff26bd3f4beb5398d7c94e7401d5dcf6f2a966f02831e97",
+      "pixelsPreserved": true
+    },
+    "trends": {
+      "width": 1206,
+      "height": 2622,
+      "encoding": "lossless WebP",
+      "sourceSha256": "87e39c998c825ca1dcd7457a78685f4f0603308a9ae9622243740ecc36593fdd",
+      "pixelsPreserved": true
+    }
+  }
+}

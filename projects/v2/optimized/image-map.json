@@ -130,5 +130,49 @@
   "/projects/v2/art/workflow-support.webp": {
     "fallback": "/projects/v2/art/workflow-support-1536.webp?v=4362cb007458",
     "srcSet": "/projects/v2/art/workflow-support-480.webp?v=4362cb007458 480w, /projects/v2/art/workflow-support-960.webp?v=4362cb007458 960w, /projects/v2/art/workflow-support-1536.webp?v=4362cb007458 1536w"
+  },
+  "/projects/png-app/captures/home.webp": {
+    "fallback": "/projects/png-app/captures/home.webp",
+    "srcSet": "/projects/png-app/captures/home-480.webp 480w, /projects/png-app/captures/home-804.webp 804w, /projects/png-app/captures/home.webp 1206w"
+  },
+  "/projects/png-app/captures/catalog.webp": {
+    "fallback": "/projects/png-app/captures/catalog.webp",
+    "srcSet": "/projects/png-app/captures/catalog-480.webp 480w, /projects/png-app/captures/catalog-804.webp 804w, /projects/png-app/captures/catalog.webp 1206w"
+  },
+  "/projects/png-app/captures/product.webp": {
+    "fallback": "/projects/png-app/captures/product.webp",
+    "srcSet": "/projects/png-app/captures/product-480.webp 480w, /projects/png-app/captures/product-804.webp 804w, /projects/png-app/captures/product.webp 1206w"
+  },
+  "/projects/png-app/captures/achievements.webp": {
+    "fallback": "/projects/png-app/captures/achievements.webp",
+    "srcSet": "/projects/png-app/captures/achievements-480.webp 480w, /projects/png-app/captures/achievements-804.webp 804w, /projects/png-app/captures/achievements.webp 1206w"
+  },
+  "/projects/png-app/captures/cart.webp": {
+    "fallback": "/projects/png-app/captures/cart.webp",
+    "srcSet": "/projects/png-app/captures/cart-480.webp 480w, /projects/png-app/captures/cart-804.webp 804w, /projects/png-app/captures/cart.webp 1206w"
+  },
+  "/projects/png-app/captures/designs.webp": {
+    "fallback": "/projects/png-app/captures/designs.webp",
+    "srcSet": "/projects/png-app/captures/designs-480.webp 480w, /projects/png-app/captures/designs-804.webp 804w, /projects/png-app/captures/designs.webp 1206w"
+  },
+  "/projects/png-app/captures/editor.webp": {
+    "fallback": "/projects/png-app/captures/editor.webp",
+    "srcSet": "/projects/png-app/captures/editor-480.webp 480w, /projects/png-app/captures/editor-804.webp 804w, /projects/png-app/captures/editor.webp 1206w"
+  },
+  "/projects/png-app/captures/profile.webp": {
+    "fallback": "/projects/png-app/captures/profile.webp",
+    "srcSet": "/projects/png-app/captures/profile-480.webp 480w, /projects/png-app/captures/profile-804.webp 804w, /projects/png-app/captures/profile.webp 1206w"
+  },
+  "/projects/png-app/captures/review.webp": {
+    "fallback": "/projects/png-app/captures/review.webp",
+    "srcSet": "/projects/png-app/captures/review-480.webp 480w, /projects/png-app/captures/review-804.webp 804w, /projects/png-app/captures/review.webp 1206w"
+  },
+  "/projects/png-app/captures/trends.webp": {
+    "fallback": "/projects/png-app/captures/trends.webp",
+    "srcSet": "/projects/png-app/captures/trends-480.webp 480w, /projects/png-app/captures/trends-804.webp 804w, /projects/png-app/captures/trends.webp 1206w"
+  },
+  "/projects/png-app/captures/certificate.webp": {
+    "fallback": "/projects/png-app/captures/certificate.webp",
+    "srcSet": "/projects/png-app/captures/certificate-480.webp 480w, /projects/png-app/captures/certificate-804.webp 804w, /projects/png-app/captures/certificate.webp 1206w"
   }
 }
