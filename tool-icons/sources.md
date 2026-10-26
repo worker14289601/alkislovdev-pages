@@ -1,6 +1,6 @@
 # Источники логотипов
 
-Проверены и заново скачаны 10 октября 2026 года с официальных ресурсов. Файлы сохранены в исходных цветах и композиции, без генерации, ручной перекраски или перерисовки. SVG проверены как XML и просмотрены через временные PNG-превью; растровые файлы проверены и просмотрены. Превью не заменяют исходные изображения.
+Основной набор проверен и заново скачан 10 октября 2026 года с официальных ресурсов. Эти файлы сохранены в исходных цветах и композиции, без генерации, ручной перекраски или перерисовки. SVG основного набора проверены как XML и просмотрены через временные PNG-превью; растровые файлы проверены и просмотрены. Превью не заменяют исходные изображения. Дата и источник дополнений указаны отдельно в таблице.
 
 App Store metadata на дату проверки: Xcode 27.0 (обновление 14 сентября 2026 года), TestFlight 4.4.0 (обновление 24 сентября 2026 года). Для Xcode использован актуальный `artworkUrl512` из metadata с `entity=macSoftware`, для TestFlight — актуальный `artworkUrl512` приложения. TestFlight, VS Code, Figma, Node.js, React и Битрикс24 уже совпадали с текущими официальными файлами; их актуальность проверена повторным скачиванием.
 
@@ -19,7 +19,11 @@ App Store metadata на дату проверки: Xcode 27.0 (обновлен�
 | `vscode.png` | VS Code | [Официальные материалы бренда Visual Studio Code](https://code.visualstudio.com/brand), [цветной PNG Microsoft](https://code.visualstudio.com/assets/branding/code-stable.png) |
 | `nodejs.svg` | Node.js | [Официальные материалы бренда Node.js](https://nodejs.org/en/about/branding), [цветной SVG Node.js](https://nodejs.org/static/logos/nodejsHex.svg) |
 | `react.svg` | React | [Официальный репозиторий React](https://github.com/react/react/blob/main/fixtures/dom/public/react-logo.svg), [цветной SVG React](https://raw.githubusercontent.com/react/react/main/fixtures/dom/public/react-logo.svg) |
+| `nextjs.svg` | Next.js | [Simple Icons: Next.js](https://github.com/simple-icons/simple-icons/blob/develop/icons/nextdotjs.svg). Монохромный знак, исходный SVG скачан 26 октября 2026 года без изменения геометрии. |
+| `google-play.svg` | Google Play | [Google Play в открытом наборе SVG Logos](https://github.com/gilbarbara/logos/blob/main/logos/google-play-icon.svg). Цветной брендовый треугольник, исходный SVG скачан 26 октября 2026 года без изменения цветов и геометрии. Самостоятельная загрузка из набора, не с сайта Google. |
 
 Claude: исходный favicon имеет размер 32×32. Запросы большего размера к этому официальному CDN возвращают те же 32×32 и те же байты. Самостоятельная официальная иконка именно продукта Claude Code не подтверждена; использован общий знак Claude без изменения цвета и формы.
 
 Все файлы локальные: внешний запрос при показе значков не требуется. Значки обозначают инструменты; они не описывают стаж, сертификацию или партнёрство с владельцами брендов.
+
+React Native использует тот же официальный знак React (`react.svg`), с отдельной подписью «React Native» в интерфейсе. Дополнения Simple Icons — брендовые SVG из открытого набора, не самостоятельные официальные загрузки владельцев брендов.

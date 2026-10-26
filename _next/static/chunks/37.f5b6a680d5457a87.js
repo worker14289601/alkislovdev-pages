@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[37,517],{4862:(e,t,h)=>{h.d(t,{A:()=>k});let k=(0,h(9033).A)("ArrowUpRight",[["path",{d:"M7 7h10v10",key:"1tivn9"}],["path",{d:"M7 17 17 7",key:"1vkiza"}]])},9517:(e,t,h)=>{h.d(t,{A:()=>k});let k=(0,h(9033).A)("Play",[["polygon",{points:"6 3 20 12 6 21 6 3",key:"1oa8hb"}]])}}]);
