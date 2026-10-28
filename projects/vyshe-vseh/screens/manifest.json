@@ -1,0 +1,78 @@
+{
+  "source": "User-provided screenshots of the Telegram bot",
+  "encoding": "Original PNG, byte-for-byte copy",
+  "screens": {
+    "welcome": {
+      "source": "IMG_4502.PNG",
+      "file": "welcome.png",
+      "width": 1206,
+      "height": 2622,
+      "bitsPerSample": 16,
+      "colorSpace": "rgb16",
+      "iccProfilePreserved": true,
+      "bytes": 2352287,
+      "sha256": "d6e90d142866acab4d8f873677aa30cf28e14d362da3755ad6a1115c2dee7297",
+      "originalBytesPreserved": true
+    },
+    "menu": {
+      "source": "IMG_4503.PNG",
+      "file": "menu.png",
+      "width": 1206,
+      "height": 2622,
+      "bitsPerSample": 16,
+      "colorSpace": "rgb16",
+      "iccProfilePreserved": true,
+      "bytes": 3166804,
+      "sha256": "8d69c81ba2e59e059e248bce7de33aa11854210c77bbc1717a9b8af6c09a4c87",
+      "originalBytesPreserved": true
+    },
+    "season-menu": {
+      "source": "IMG_4504.PNG",
+      "file": "season-menu.png",
+      "width": 1206,
+      "height": 2622,
+      "bitsPerSample": 16,
+      "colorSpace": "rgb16",
+      "iccProfilePreserved": true,
+      "bytes": 4481605,
+      "sha256": "30942d62225d76f2f61908602fabc1cd382498b452058af28a6a0971155fbc4f",
+      "originalBytesPreserved": true
+    },
+    "branches": {
+      "source": "IMG_4505.PNG",
+      "file": "branches.png",
+      "width": 1206,
+      "height": 2622,
+      "bitsPerSample": 16,
+      "colorSpace": "rgb16",
+      "iccProfilePreserved": true,
+      "bytes": 3954947,
+      "sha256": "cee7d48feb08ab80a8d74cbf5eb701acc3518abf53c41e0470da21548b08087c",
+      "originalBytesPreserved": true
+    },
+    "venue": {
+      "source": "IMG_4506.PNG",
+      "file": "venue.png",
+      "width": 1206,
+      "height": 2622,
+      "bitsPerSample": 16,
+      "colorSpace": "rgb16",
+      "iccProfilePreserved": true,
+      "bytes": 4055317,
+      "sha256": "8ae7bb933550df753a3a7aacbf4572e1a8d129f119c2f9ff6264782b0bc9d7f0",
+      "originalBytesPreserved": true
+    },
+    "schedule": {
+      "source": "IMG_4507.PNG",
+      "file": "schedule.png",
+      "width": 1206,
+      "height": 2622,
+      "bitsPerSample": 16,
+      "colorSpace": "rgb16",
+      "iccProfilePreserved": true,
+      "bytes": 2226743,
+      "sha256": "f378326e27d75e5731506844afef0e7826e4e5c7af19b86834d700d3bf2dbcc6",
+      "originalBytesPreserved": true
+    }
+  }
+}
