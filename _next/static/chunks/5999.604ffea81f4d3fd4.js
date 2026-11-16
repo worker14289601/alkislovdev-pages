@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5999],{5999:(e,s,k)=>{k.d(s,{A:()=>l});let l=(0,k(9783).A)("Play",[["polygon",{points:"6 3 20 12 6 21 6 3",key:"1oa8hb"}]])}}]);
